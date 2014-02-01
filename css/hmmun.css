@@ -1,0 +1,74 @@
+#hmcontent_grey
+ {height: 150px;
+ width:100%;
+  text-align: center;
+  background: transparent url(../images/maroonmenubar.jpg) repeat;
+    -moz-box-shadow: inset 0px 0px 5px 0px #000;
+	-webkit-box-shadow: inset 0px 0px 5px 0px #000;
+	box-shadow: inset 0px 0px 5px 0px #000;
+	position:absolute;
+	top:990px;
+
+} 
+
+  
+.hmcontent_grey_container_box
+{ width: 200px;
+  padding: 5px;
+  text-align: center;
+  margin: 20px 25px 10px 150px;
+  float: left;
+  color: #FFF;}
+    
+.hmcontent_grey_container_box2
+{ width: 200px;
+  padding: 0px;
+  text-align: center;
+  margin: 20px 25px 10px 150px;
+  float: left;
+  color: #FFF;}
+
+.hmcontent_grey_container_boxl
+{ width: 270px;
+  padding: 5px;
+  text-align: center;
+  margin: 20px 0 10px 130px;
+  float: left;
+  color: #FFF;}
+  
+
+
+#hmfooter
+{ width: 100%;
+  height: 20px;
+  padding-top: 20px;
+  text-align: center; 
+  background: transparent;
+  color: #1D1D1D;
+  position:absolute;
+  top: 1135px;
+  }
+
+#hmfooter a, #hmfooter a:hover
+{ color: #684430;
+  text-decoration: none;
+  padding-bottom: 20px;}
+
+#hmfooter a:hover
+{ text-decoration: underline;}
+
+#hmfooter a, #comfooter a:hover
+{ color: #1D1D1D;
+  text-decoration: none;}
+
+#hmfooter a:hover
+{ text-decoration: underline;}
+
+ .hmreadmore
+{ height: 30px;
+  padding-left: 0px;
+  color: #FFF;
+  background: transparent;}
+  
+ .hmreadmore a
+{ color: #FFF;}

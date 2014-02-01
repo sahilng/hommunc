@@ -1,0 +1,15 @@
+index text/html
+about text/html
+registration text/html
+committees text/html
+hmmun text/html
+contact text/html
+leadership text/html	
+
+tabindex text/html
+tababout text/html
+tabregistration text/html
+tabcommittees text/html
+tabhmmun text/html
+tabcontact text/html
+overindex text/html

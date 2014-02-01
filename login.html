@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="en">
+<head>
+<title>Login</title>
+</head>
+<body>
+
+<script type="text/javascript">
+
+function CheckPassword() {
+  var username=document.login.username.value;
+  var password=document.login.password.value;
+  location.href = username + password+'.htm';
+}
+
+</script>
+
+<form method="post" action="ingen_javascript.htm"
+  onsubmit="CheckPassword();return false;" name="login">
+<pre>
+Username: <input type="text" name="username">
+Password: <input type="password" name="password">
+</pre>
+<input type="submit" value="log på"
+  onclick="CheckPassword();return false;">
+</form>
+
+</body>
+</html>

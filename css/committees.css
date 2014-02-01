@@ -1,0 +1,151 @@
+
+
+#comcontent_grey
+ {height: 150px;
+ width:100%;
+  text-align: center;
+background: transparent url(../images/maroonmenubar.jpg) repeat;
+    -moz-box-shadow: inset 0px 0px 5px 0px #000;
+	-webkit-box-shadow: inset 0px 0px 5px 0px #000;
+	box-shadow: inset 0px 0px 5px 0px #000;
+	position:absolute;
+	top:1100px;
+
+} 
+
+.comtable td
+{
+text-align: center;
+border:1px solid black;
+width:15em;
+}
+
+.comcontent_item
+{
+width: 1280px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 90px;
+ }
+  
+.comcontent_grey_container_box
+{ width: 200px;
+  padding: 5px;
+  text-align: center;
+  margin: 20px 25px 10px 150px;
+  float: left;
+  color: #FFF;}
+  
+  .comcontent_grey_container_box2
+{ width: 200px;
+  padding: 0px;
+  text-align: center;
+  margin: 20px 25px 10px 150px;
+  float: left;
+  color: #FFF;}
+
+.comcontent_grey_container_boxl
+{ width: 270px;
+  padding: 5px;
+  text-align: center;
+  margin: 20px 0 10px 130px;
+  float: left;
+  color: #FFF;}
+  
+
+
+#comfooter
+{ width: 100%;
+  height: 20px;
+  padding-top: 20px;
+  text-align: center; 
+  background: transparent;
+  color: #1D1D1D;
+  position:absolute;
+  top: 1240px;
+  }
+  
+#bgbanner
+{
+text-align: center;
+margin-top:30px;
+font-size:20px;
+}
+
+#comfooter a, #comfooter a:hover
+{ color: #684430;
+  text-decoration: none;
+  padding-bottom: 20px;}
+
+#comfooter a:hover
+{ text-decoration: underline;}
+
+#comfooter a, #comfooter a:hover
+{ color: #1D1D1D;
+  text-decoration: none;}
+
+#comfooter a:hover
+{ text-decoration: underline;}
+
+ .comreadmore
+{ height: 30px;
+  padding-left: 0px;
+  color: #FFF;
+  background: transparent;}
+  
+ .comreadmore a
+{ color: #FFF;}
+
+.comcontent_container
+{
+width: 400px;
+  padding: 10px;
+  margin-right: 10px;
+  position: relative;
+  left: 100px;
+  top: 30px;
+ }
+ 
+ #spec
+ {
+	 width: 400px;
+  padding: 10px;
+  margin-right: 10px;
+  position: relative;
+  left: 550px;
+  top: -445px;
+ }
+ 
+ .comcontent_container1
+{
+width: 400px;
+  padding: 10px;
+  margin-right: 10px;
+  position: relative;
+  left: 600px;
+  top: -427px;
+ }
+ 
+  .comcomcontent_container2
+{
+width: 500px;
+  padding: 10px;
+  margin-right: 10px;
+  position: relative;
+  left: 200px;
+  top: -700px; 
+  
+ }
+ 
+ #crisis
+ {
+
+	width: 400px;
+  padding: 10px;
+  margin-right: 10px;
+  position: relative;
+  left: 190px;
+  top: -700px; 
+
+ }
+ 
