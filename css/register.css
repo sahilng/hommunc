@@ -147,7 +147,10 @@ margin-top: 3%;
   float: left;
   color: #FFF;}
   
-
+#regform{
+	display: block;
+	margin: 0 auto;
+}
 
 #regfooter
 { width: 100%;
@@ -157,7 +160,7 @@ margin-top: 3%;
   background: transparent;
   color: #1D1D1D;
   position:absolute;
-  top: 540px;
+  top: 740px;
   }
 
 #regfooter a, #regfooter a:hover
